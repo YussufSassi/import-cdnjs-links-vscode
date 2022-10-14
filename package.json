@@ -3,6 +3,9 @@
   "displayName": "auto-import-cdn-links",
   "description": "This extension allows you to import libraries from CDNJS inside of vs code! No more searching for the proper URL on google.",
   "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/YussufSassi/import-cdnjs-links-vscode"
+  },
   "engines": {
     "vscode": "^1.72.0"
   },
