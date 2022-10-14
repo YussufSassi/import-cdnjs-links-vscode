@@ -11,3 +11,7 @@ A simple extension that helps you import libraries and stylesheets from CDNJS wi
 4. Follow the prompts and customize the import to your liking.
 5. The extension will infer the type of item you chose (JS/CSS).
 
+
+
+https://user-images.githubusercontent.com/23177122/195903963-64a9ef06-ca90-441e-b560-870476dafaac.mov
+
