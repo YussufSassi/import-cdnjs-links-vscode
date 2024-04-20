@@ -78,7 +78,7 @@ export async function activate(context: vscode.ExtensionContext) {
                     } else {
                       vscode.window.activeTextEditor?.insertSnippet(
                         new vscode.SnippetString(
-                          `<script src=${url} integrity="${filesResponse.sri[f]}" crossorigin="anonymous" referrerpolicy="no-referrer"></script>`
+                          `<script src="${url}" integrity="${filesResponse.sri[f]}" crossorigin="anonymous" referrerpolicy="no-referrer"></script>`
                         )
                       );
                     }
